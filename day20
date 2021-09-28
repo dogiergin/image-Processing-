@@ -1,0 +1,8 @@
+Görüntü Sınıflandırma (Image Classification)
+
+    Görüntü Sınıflandırma Nedir?
+    Görüntüde Nesne Lokalizasyonu
+    Görüntü Sınıflandırma Veri Setleri
+        MNIST, ImageNet, CIFAR10
+
+Proje: TensorFlow ile Çiçek Görüntülerinin Sınıflandırılması
